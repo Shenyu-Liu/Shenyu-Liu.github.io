@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, USA, 2020
+  * Supervisor: <a href="http://liberzon.csl.illinois.edu/"> Prof. Daniel Liberzon</a> and <a href="https://publish.illinois.edu/belabbas/"> Prof. Mohamed-Ali Belabbas</a>
+* M.S. in Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, USA, 2015
+* B.E. in Mechanical Engineering, National University of Singapore, Singapore, 2014
+* B.S. in Mathematics, National University of Singapore, Singapore, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2022 to now
+  * Beijing Institute of Technology, China
+  * Assistant professor
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2020 to April 2022
+  * University of California, San Diego, USA
+  * Postdoctoral researcher
+  * Supervisor: <a href="http://carmenere.ucsd.edu/jorge/">Prof. Jorge Cortes</a> and <a href="http://nodes.ucsd.edu/sonia/">Prof. Sonia Martinez</a>
   
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stability of hybrid and switched systems
+* Data-driven control
+* Distributed control algorithms
+* Geometric control approaches
+
+Projects
+======
+* Modeling, analysis and stabilizer design of cyber-physical systems: a hybrid system based approach. National Science Foundation of China, grant 62203053
 
 Publications
 ======
@@ -54,6 +57,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+
+* I received <strong>Best Talk Award</strong> in CSL Student Conference, 2017.
+* <strong>Platinum Award at ST Electronics&#39; Tech-Factor Challenge</strong> for the best undergraduate final year project in robotics, 2014.
+
