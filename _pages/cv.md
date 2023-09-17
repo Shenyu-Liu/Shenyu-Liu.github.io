@@ -20,11 +20,11 @@ Education
 Work experience
 ======
 * April 2022 to now
-  * Beijing Institute of Technology, China
+  * School of Automation, Beijing Institute of Technology, China
   * Assistant professor
 
 * February 2020 to April 2022
-  * University of California, San Diego, USA
+  * Department of Mechanical and Aerospace Engineering, University of California, San Diego, USA
   * Postdoctoral researcher
   * Supervisor: <a href="http://carmenere.ucsd.edu/jorge/">Prof. Jorge Cortes</a> and <a href="http://nodes.ucsd.edu/sonia/">Prof. Sonia Martinez</a>
   

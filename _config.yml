@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shenyu Liu"
 description              : &description "personal description"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Shenyu Liu"
-  avatar           : "Liu, Shenyu_2136.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "photo-SL.jpg"
+  bio              : "Assistant professor in School of Automation"
+  location         : "Beijing Institute of Technology, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=aHeeiQ8AAAAJ"
