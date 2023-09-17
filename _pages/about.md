@@ -12,5 +12,5 @@ Welcome to the homepage of Shenyu Liu! I was born in China in 1990, stayed at my
 
 
 
-
+[![Hits](https://hits.sh/shenyu-liu.github.io.svg?style=flat-square)](https://hits.sh/shenyu-liu.github.io/)
 

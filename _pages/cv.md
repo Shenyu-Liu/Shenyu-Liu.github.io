@@ -41,15 +41,15 @@ Projects
 
 Publications
 ======
-  Check <a href="/publications"> here </a>.
+  Check <a href="/publications">here</a>.
   
 Talks
 ======
-  Check <a href="/Talks"> here </a>.
+  Check <a href="/talks">here</a>.
   
 Teaching
 ======
-  Check <a href="/Teaching"> here </a>.
+  Check <a href="/teaching">here</a>.
   
 Awards
 ======
