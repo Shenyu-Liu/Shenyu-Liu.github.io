@@ -41,25 +41,20 @@ Projects
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Check <a href="/publications"> here </a>.
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  Check <a href="/Talks"> here </a>.
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Check <a href="/Teaching"> here </a>.
   
 Awards
 ======
-
+* <strong>Finalist</strong> for the Best Paper Award at the 2019 IFAC Symposium on Nonlinear Control 
+Systems in Vienna, Austria, 2019
 * I received <strong>Best Talk Award</strong> in CSL Student Conference, 2017.
 * <strong>Platinum Award at ST Electronics&#39; Tech-Factor Challenge</strong> for the best undergraduate final year project in robotics, 2014.
 
