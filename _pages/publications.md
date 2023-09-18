@@ -20,10 +20,11 @@ On resilient network
 
 On stability of switched systems
 ------
-
-* [J] <strong>Liu, S.</strong> and Tanwani. Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework. Submitted to Automatica.
+* [J] Wen, P. and <strong>Liu, S.</strong> (2023). Stability Analysis andMoment Estimation for Randomly Impulsive Switched Systems with Restrictions. Submitted to Automatica.
+* [J] <strong>Liu, S.</strong> and Tanwani. (2023). Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework. Submitted to Automatica.
 * [J] <strong>Liu, S.</strong> and Wen, P. (2023). Non-conservative stability criteria for semi-Markovian impulsive switched systems. Submitted to SIAM Journal on Control and Optimization.
 * [C] Russo A. and <strong>Liu, S.</strong> (2023). Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always. Accepted by the 62nd IEEE Conference on Decision and Control.
+* [J] Zhang, Y., Xia, Y., <strong>Liu, S.</strong> and Sun, Z. (2023) On Polynomially Solvable Constrained Input Selections for Fixed and Switched Linear Structured Systems, Automatica, in press.
 * [J] Eising, J. <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2023). Data-driven mode detection and stabilization of unknown switched linear systems. Submitted to IEEE Transactions on Automatic Control.
 * [J] <strong>Liu, S.</strong> (2022). <a href="https://ieeexplore.ieee.org/document/10236460">Characterizations and Stability Criteria for the 2-Mode Markovian Switched Nonlinear Systems.</a>  IEEE Transactions on Automatic Control. Early access.
 * [J] <strong>Liu, S.</strong>, Russo, A. (2022). Further characterizations of integral input-to-state stability for hybrid systems. Submitted to Automatica.
