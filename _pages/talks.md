@@ -7,9 +7,9 @@ author_profile: true
 
 * Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always. 62nd IEEE CDC, December 2023, Singapore
 * Online Data-Driven Adaptive Control for Unknown Linear Time-Varying Systems. 62nd IEEE CDC, December 2023, Singapore
-* Switched Nonlinear Systems: Stability Analysis via Average Dwell-time and Average Activation Time Switching. Invited talk at Tongji University, June 2023, Shanghai, China
-* Average Dwell-Time Minimization of Switched Systems via Sequential Convex Programming. 60th IEEE CDC, December 2021, Austin, Texas, USA (virtual)
-* Average Dwell-Time Bounds for ISS and Integral ISS of Switched Systems using Lyapunov Functions. 59th IEEE CDC, December 2020, Jeju Island, Korea (virtual)
+* Switched Nonlinear Systems: Stability Analysis via Average Dwell-time and Average Activation Time Switching. Invited talk at Tongji University, June 2023, Shanghai, China <a href="/_talks/Switched systems presentation.pptx">PPT</a>
+* Average Dwell-Time Minimization of Switched Systems via Sequential Convex Programming. 60th IEEE CDC, December 2021, Austin, Texas, USA (virtual) <a href="/_talks/CDC2021.pdf">Beamer</a>
+* Average Dwell-Time Bounds for ISS and Integral ISS of Switched Systems using Lyapunov Functions. 59th IEEE CDC, December 2020, Jeju Island, Korea (virtual) <a href="/_talks/CDC2020.pdf">Beamer</a>
 * Higher Order Derivatives of Lyapunov Functions for Stability of Systems with Inputs. 58th IEEE CDC, December 2019, Nice, France 
 * On Almost Lyapunov Functions for Systems with Inputs. 58th IEEE CDC, December 2019, Nice, France 
 * The Affine Geometric Heat Flow and Motion Planning for Dynamic Systems. Joint 8th IFAC Symposium on Mechatronic Systems and 11th IFAC Symposium on Nonlinear Control Systems, September 2019, Vienna, Austra
