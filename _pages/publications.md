@@ -55,7 +55,7 @@ On motion planning
 * [C] Fan, Y.,<strong> Liu, S.</strong> and Belabbas, M.A. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S2405896319309760">Mid-air Motion Planning of Floating Robot Using Heat Flow Method.</a> 1st IFAC Workshop on Robot Control. IFAC-PapersOnline vol. 52, issue 22, 19&ndash;24.
 * [C] <strong>Liu, S.</strong>, Fan, Y. and Belabbas, M.A. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S2405896319317768">The Affine Geometric Heat Flow and Motion Planning for Dynamic Systems.</a> 11th IFAC Symposium on Nonlinear Control Systems. IFAC-PapersOnLine vol. 52, issue 16, 168&ndash;173.
 * [P] <strong>Liu, S.</strong> and Belabbas, M.A. (2019). <a href="https://arxiv.org/pdf/1901.10094.pdf">A Homotopy Method for Motion Planning.</a> arXiv 1901.10094.
-* [C] Belabbas, M.A. and <strong>Liu, S.</strong> (2017). <a href="https://ieeexplore.ieee.org/document/7963599">New Method for Motion Planning for Non-holonomic Systems Using Partial Differential Equations.</a> In 2017 American Control Conference, 4189&ndash;4194.</p>
+* [C] Belabbas, M.A. and <strong>Liu, S.</strong> (2017). <a href="https://ieeexplore.ieee.org/document/7963599">New Method for Motion Planning for Non-holonomic Systems Using Partial Differential Equations.</a> In 2017 American Control Conference, 4189&ndash;4194.
 
 
 
