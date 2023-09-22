@@ -55,6 +55,6 @@ Awards
 ======
 * <strong>Finalist</strong> for the Best Paper Award at the 2019 IFAC Symposium on Nonlinear Control 
 Systems in Vienna, Austria, 2019
-* I received <strong>Best Talk Award</strong> in CSL Student Conference, 2017. ![Best Talk Award in CSLSC 2017](/images/CSLSC.jpg)
-* <strong>Platinum Award at ST Electronics&#39; Tech-Factor Challenge</strong> for the best undergraduate final year project in robotics, 2014. ![Platinum Award at Tech-Factor Challenge 2014](/images/Singapore.png)
+* <strong>Best Talk Award</strong> in CSL Student Conference, 2017. ![Best Talk Award in CSLSC 2017](/images/CSLSC.jpg)
+* <strong>Platinum Award</strong> at ST Electronics&#39; Tech-Factor Challenge for the best undergraduate final year project in robotics, 2014. ![Platinum Award at Tech-Factor Challenge 2014](/images/Singapore.png)
 
