@@ -44,7 +44,7 @@ On stability of nonlinear systems
 * [C] <strong>Liu, S.</strong> and Liberzon, D. (2019). <a href="https://ieeexplore.ieee.org/document/9029302">Higher Order Derivatives of Lyapunov Functions for Stability of Systems with Inputs.</a> In proceedings of the 58th IEEE Conference on Decision and Control, 6146&ndash;6151.
 * [C] <strong>Liu, S.</strong> and Liberzon, D. (2019). <a href="https://ieeexplore.ieee.org/document/9030282">On Almost Lyapunov Functions for Systems with Inputs.</a> In proceedings of the 58th IEEE Conference on Decision and Control, 468&ndash;473.
 * [J] <strong>Liu, S.</strong>, Liberzon, D. and Zharnitsky, V. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0005109819306211">Almost Lyapunov Functions for Nonlinear Systems.</a> Automatica Vol. 113, 108758.
-* [C] <strong>Liu, S.</strong>, Liberzon, D. and Zharnitsky, V. (2016). <a href="https://ieeexplore.ieee.org/document/7799123">On Almost Lyapunov Functions for Non-vanishing Vector Fields.</a> In proceedings of the 55th IEEE Conference on Decision and Control, 5557&ndash;5562.</p>
+* [C] <strong>Liu, S.</strong>, Liberzon, D. and Zharnitsky, V. (2016). <a href="https://ieeexplore.ieee.org/document/7799123">On Almost Lyapunov Functions for Non-vanishing Vector Fields.</a> In proceedings of the 55th IEEE Conference on Decision and Control, 5557&ndash;5562.
 
 On motion planning
 ------
