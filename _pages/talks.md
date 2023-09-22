@@ -16,5 +16,5 @@ author_profile: true
 * The Affine Geometric Heat Flow and Motion Planning for Dynamic Systems. Joint 8th IFAC Symposium on Mechatronic Systems and 11th IFAC Symposium on Nonlinear Control Systems, September 2019, Vienna, Austra <a href="/talks/NOLCOS.pdf">Beamer</a>
 * Global stability and asymptotic gain imply input-to-state stability for state-dependent switched systems. 57th IEEE CDC, December 2018, Miami, Florida, USA
 * Path planning and obstacle avoidance of unicycle using the heat flow method. 12th CSL Student Conference, February 2017, Urbana, Illinois, USA <a href="/talks/CSLSC_heat_flow.pptx">PPT</a>
-* New Method for Motion Planning for Non-Holonomic Systems Using Partial Differential Equations. 2017 ACC, May 2017, Seattle, Washington, USA <a href="/talks/ACC2017.pdf">Beamer</a>
+* New Method for Motion Planning for Non-Holonomic Systems Using Partial Differential Equations. 2017 ACC, May 2017, Seattle, Washington, USA <a href="https://1drv.ms/b/s!Aji1a52wJTJRiY1ceuCGGJc9U0Fp8w?e=UCpfhM">Beamer</a>
 * On almost Lyapunov Functions for Non-Vanishing Vector Fields. 55th IEEE CDC, December 2016, Las Vagas, Nevada, USA
