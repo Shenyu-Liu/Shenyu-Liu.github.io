@@ -15,13 +15,13 @@ On resilient network
 ------
 * [C] <strong>Liu, S.</strong> and Martinez, S. Solving Linear Algebraic Equations with Limited Computation Power and Network Bandwidth. In preparation.
 * [J] <strong>Liu, S.</strong>, Cortes, J. and Martinez, S. Data-Driven Distributed Spectrum Estimation for Linear Time-Invariant Systems. Submitted to IEEE Transactions on Control of Network Systems.
-* [J] <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2022). <a href ="https://ieeexplore.ieee.org/document/10128668">Switched Defense Mechanism Against Attacks on the Parameters of Cyber-Physical Systems.</a> IEEE Transactions on Automatic Control. Early access.
+* [J] <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2022). <a href ="https://ieeexplore.ieee.org/document/10128668">Switched Defense Mechanism Against Attacks on the Parameters of Cyber-Physical Systems.</a> IEEE Transactions on Automatic Control vol 68, issue 12, 7326&ndash;7341.
 * [J] <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2022). <a href="https://ieeexplore.ieee.org/document/9750852">Iterative Algorithms for Assessing Network Resilience Against Structured Perturbations.</a> IEEE Transactions on Control of Network Systems, vol. 9, issue 4, 1816&ndash;1827.
 
 On stability of switched systems
 ------
-* [J] Wen, P. and <strong>Liu, S.</strong> (2023). Stability Analysis andMoment Estimation for Randomly Impulsive Switched Systems with Restrictions. Submitted to Automatica.
-* [J] <strong>Liu, S.</strong> and Tanwani. (2023). Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework. Submitted to Automatica.
+* [J] Wen, P. and <strong>Liu, S.</strong> (2023). Stability Analysis and Moment Estimation for Randomly Impulsive Switched Systems with Restrictions. Submitted to Automatica.
+* [J] <strong>Liu, S.</strong> and Tanwani, A. (2023). Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework. Submitted to Automatica.
 * [J] <strong>Liu, S.</strong> and Wen, P. (2023). Non-conservative stability criteria for semi-Markovian impulsive switched systems. Submitted to SIAM Journal on Control and Optimization.
 * [C] Russo A. and <strong>Liu, S.</strong> (2023). Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always. Accepted by the 62nd IEEE Conference on Decision and Control.
 * [J] Zhang, Y., Xia, Y., <strong>Liu, S.</strong> and Sun, Z. (2023) On Polynomially Solvable Constrained Input Selections for Fixed and Switched Linear Structured Systems, Automatica, in press.

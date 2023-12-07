@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The complete CV can be downloaded [here](../files/Shenyu_Liu_CV.pdf).
+
 Education
 ======
 * Ph.D in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, USA, 2020

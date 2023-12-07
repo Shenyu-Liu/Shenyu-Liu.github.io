@@ -7,6 +7,7 @@ author_profile: true
 
 * Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always. 62nd IEEE CDC, December 2023, Singapore
 * Online Data-Driven Adaptive Control for Unknown Linear Time-Varying Systems. 62nd IEEE CDC, December 2023, Singapore
+* Switched Nonlinear Systems: Stability Analysis via Average Dwell-time and Average Activation Time Switching. Invited talk at Qilu University of Technology, November 2023, Jinan, Shandong, China <a href="https://1drv.ms/p/s!Aji1a52wJTJRiY1bL17dKp4Aw92beA?e=TQmvdT">PPT</a>
 * Distributed Spectrum Estimation for Linear Time-Invariant Systems. 6th IEEE International Conference on Unmanned Systems, October 2023, Hefei, Anhui, China
 * Switched Nonlinear Systems: Stability Analysis via Average Dwell-time and Average Activation Time Switching. Invited talk at Tongji University, June 2023, Shanghai, China <a href="https://1drv.ms/p/s!Aji1a52wJTJRiY1bL17dKp4Aw92beA?e=TQmvdT">PPT</a>
 * Average Dwell-Time Minimization of Switched Systems via Sequential Convex Programming. 60th IEEE CDC, December 2021, Austin, Texas, USA (virtual) <a href="https://1drv.ms/b/s!Aji1a52wJTJRiY1hf5O9Bj0Wnb0zSw?e=Nz6h1y">Beamer</a>
