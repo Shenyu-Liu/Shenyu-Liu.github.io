@@ -23,8 +23,8 @@ On stability of switched systems
 * [J] Wen, P. and <strong>Liu, S.</strong> (2023). Stability Analysis and Moment Estimation for Randomly Impulsive Switched Systems with Restrictions. Submitted to Automatica.
 * [J] <strong>Liu, S.</strong> and Tanwani, A. (2023). Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework. Submitted to Automatica.
 * [J] <strong>Liu, S.</strong> and Wen, P. (2023). Non-conservative stability criteria for semi-Markovian impulsive switched systems. Submitted to SIAM Journal on Control and Optimization.
-* [C] Russo A. and <strong>Liu, S.</strong> (2023). Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always. Accepted by the 62nd IEEE Conference on Decision and Control.
-* [J] Zhang, Y., Xia, Y., <strong>Liu, S.</strong> and Sun, Z. (2023) On Polynomially Solvable Constrained Input Selections for Fixed and Switched Linear Structured Systems, Automatica, in press.
+* [C] Russo A. and <strong>Liu, S.</strong> (2023). <a href="https://ieeexplore.ieee.org/document/10383527">Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always.</a> In proceedings of the 62nd IEEE Conference on Decision and Control, 7665&ndash;7660.
+* [J] Zhang, Y., Xia, Y., <strong>Liu, S.</strong> and Sun, Z. (2023) <a href="https://www.sciencedirect.com/science/article/pii/S0005109823004727">On Polynomially Solvable Constrained Input Selections for Fixed and Switched Linear Structured Systems</a>, Automatica, in press.
 * [J] Eising, J. <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2023). Data-driven mode detection and stabilization of unknown switched linear systems. Submitted to IEEE Transactions on Automatic Control.
 * [J] <strong>Liu, S.</strong> (2022). <a href="https://ieeexplore.ieee.org/document/10236460">Characterizations and Stability Criteria for the 2-Mode Markovian Switched Nonlinear Systems.</a>  IEEE Transactions on Automatic Control. Early access.
 * [J] <strong>Liu, S.</strong>, Russo, A. (2022). Further characterizations of integral input-to-state stability for hybrid systems. Submitted to Automatica.
@@ -39,7 +39,7 @@ On stability of switched systems
 On stability of nonlinear systems
 ------
 
-* [C] <strong>Liu, S.</strong>, Chen, K. and Eising, J. (2023). Online Data-Driven Adaptive Control for Unknown Linear Time-Varying Systems. Accepted by the 62nd IEEE Conference on Decision and Control.
+* [C] <strong>Liu, S.</strong>, Chen, K. and Eising, J. (2023). <a href="https://ieeexplore.ieee.org/abstract/document/10383840">Online Data-Driven Adaptive Control for Unknown Linear Time-Varying Systems.</a> In proceedings of the 62nd IEEE Conference on Decision and Control, 8775&ndash;8780.
 * [J] <strong>Liu, S.</strong> (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0005109822003582">Unified Stability Criteria for Perturbed LTV Systems with Unstable Instantaneous Dynamics.</a> Automatica Vol. 144, 110499.
 * [C] <strong>Liu, S.</strong> and Liberzon, D. (2019). <a href="https://ieeexplore.ieee.org/document/9029302">Higher Order Derivatives of Lyapunov Functions for Stability of Systems with Inputs.</a> In proceedings of the 58th IEEE Conference on Decision and Control, 6146&ndash;6151.
 * [C] <strong>Liu, S.</strong> and Liberzon, D. (2019). <a href="https://ieeexplore.ieee.org/document/9030282">On Almost Lyapunov Functions for Systems with Inputs.</a> In proceedings of the 58th IEEE Conference on Decision and Control, 468&ndash;473.
