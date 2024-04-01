@@ -20,6 +20,7 @@ On resilient network
 
 On stability of switched systems
 ------
+* [J] <strong>Liu, S.</strong>, Russo, A. (2024). On Variants of (Integral) Input-to-State Stability for Hybrid Systems and Applications to Uniting Control. Submitted to IEEE Transactions on Automatic Control.
 * [C] <strong> Liu, S.</strong> and Wen, P. (2024). On Component-wise Asymptotic Moment Stability of Continuous-time Markov Jump Linear Systems. Submitted to 63rd IEEE COnference on Decision and Control.
 * [J] <strong>Liu, S.</strong>, Russo, A. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0005109823006532">Further characterizations of integral input-to-state stability for hybrid systems.</a> Automatica, vol. 163, 111484.
 * [J] Wen, P. and <strong>Liu, S.</strong> (2023). Stability Analysis and Moment Estimation for Randomly Impulsive Switched Systems with Restrictions. Submitted to Automatica.
