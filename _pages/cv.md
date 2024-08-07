@@ -52,6 +52,14 @@ Talks
 Teaching
 ======
   Check <a href="/teaching">here</a>.
+
+Academic Services
+======
+* Member of the IEEE CDC 2026 Program Committee.
+* Member of the IEEE CSS Conference Editorial Board (Serving as an Associate Editor for 2025 ACC and later conferences) since 2024.
+* Session chair for “Time-varying Systems” at the 62nd IEEE Control and Decision Conference, Singapore, 2023.
+* Member of the Program committee for Repeatability evaluation of the International Conference on Hybrid Systems: Computation and Control 2021, 2022. 
+* Session chair for “Decision and Control” at the 13th CSL Student Conference, IL, USA, 2019.
   
 Awards
 ======
