@@ -7,9 +7,12 @@ author_profile: true
 
 Instructor
 ------
-* 0600042 Image processing techniques (Fall 2022 and Fall 2023)
+* 0600042 Image processing techniques (Fall 2022, Fall 2023, and Fall 2024)
   * Graduate level course in BIT.
-  * The most recent course materials can be found <a href="https://lexue.bit.edu.cn/course/view.php?id=13978"> here</a>. 
+  * The most recent course materials can be found <a href="https://lexue.bit.edu.cn/course/view.php?id=15775"> here</a>. 
+* 108406002 Linear system theory (Fall 2024)
+  * Undergraduate level course in BIT.
+  * The most recent course materials can be found <a href="https://lexue.bit.edu.cn/course/view.php?id=15776"> here</a>. 
 
 Teaching Assistantship
 ------
