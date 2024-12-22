@@ -11,9 +11,9 @@ author_profile: true
 
 <p>[C] conference papers, [J] journal papers, [P] preprints. </p>
 
-On resilient network
+On network and distributed algorithms
 ------
-<!--* [J] <strong>Liu, S.</strong>, Wang, X. and Martinez, S. (2024). Scalable Distributed Algorithm for Solving Linear Algebraic Equations via Scheduling. In preparation.-->
+* [J] <strong>Liu, S.</strong> (2024). Scalable Distributed Least Squares Algorithm for Linear Algebraic Equations via Scheduling. Submitted to IEEE Transactions on Automatic Control. 
 * [J] <strong>Liu, S.</strong> and Martinez, S. (2024). Solving Linear Algebraic Equations with Limited Computation Power and Network Bandwidth. Submitted to Systems and Control Letters.
 * [J] <strong>Liu, S.</strong>, Cortes, J. and Martinez, S. (2024). <a href ="https://ieeexplore.ieee.org/document/10608395">Data-Driven Distributed Spectrum Estimation for Linear Time-Invariant Systems.</a> IEEE Transactions on Control of Network Systems, early access.
 * [J] <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2023). <a href ="https://ieeexplore.ieee.org/document/10128668">Switched Defense Mechanism Against Attacks on the Parameters of Cyber-Physical Systems.</a> IEEE Transactions on Automatic Control, vol 68, issue 12, 7326&ndash;7341.
@@ -21,6 +21,7 @@ On resilient network
 
 On stability of switched systems
 ------
+* [J] Eising, J. <strong>Liu, S.</strong>, Martinez, S., and Cortes, J. (2025). <a href="https://ieeexplore.ieee.org/document/10810729">Data-driven mode detection and stabilization of unknown switched linear systems</a>. IEEE Transactions on Automatic Control, early access.
 * [J] <strong>Liu, S.</strong> and Tanwani, A. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S0005109824004229">Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework.</a> Automatica, vol. 171, 111928.
 * [C] Wen, P. and <strong>Liu, S.</strong> (2024). <a href="https://ieeexplore.ieee.org/document/10662301">Redundancy design of networked control systems under denial-of-service attacks</a>. In proceedings of the 43rd Chinese Control Conference, 1515&ndash;1520.
 * [J] Wen, P. and <strong>Liu, S.</strong> (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0167691124002056">Stability Analysis for Impulsive Switched Systems with bounded sojourn time intervals.</a> Systems and Control Letters, vol. 193, 105917.
@@ -30,7 +31,6 @@ On stability of switched systems
 * [J] <strong>Liu, S.</strong> and Wen, P. (2023). <a href="https://doi.org/10.1137/23M1564833">Non-conservative stability criteria for semi-Markovian impulsive switched systems.</a> SIAM Journal on Control and Optimization, vol 62, no. 3, 1783&ndash;1808.
 * [C] Russo A. and <strong>Liu, S.</strong> (2023). <a href="https://ieeexplore.ieee.org/document/10383527">Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always.</a> In proceedings of the 62nd IEEE Conference on Decision and Control, 7665&ndash;7660.
 * [J] Zhang, Y., Xia, Y., <strong>Liu, S.</strong>, and Sun, Z. (2023) <a href="https://www.sciencedirect.com/science/article/pii/S0005109823004727">On Polynomially Solvable Constrained Input Selections for Fixed and Switched Linear Structured Systems</a>, Automatica, vol. 158, 111308.
-* [J] Eising, J. <strong>Liu, S.</strong>, Martinez, S., and Cortes, J. (2023). Data-driven mode detection and stabilization of unknown switched linear systems. Submitted to IEEE Transactions on Automatic Control.
 * [J] <strong>Liu, S.</strong> (2022). <a href="https://ieeexplore.ieee.org/document/10236460">Characterizations and Stability Criteria for the 2-Mode Markovian Switched Nonlinear Systems.</a>  IEEE Transactions on Automatic Control, vol. 69, issue 4, 2552&ndash;2558.
 * [C] Eising, J., <strong>Liu, S.</strong>, Martinez, S., and Cortes, J. (2022). <a href ="https://ieeexplore.ieee.org/document/9992675">Using Data Informativity for Online Stabilization of Unknown Switched Linear Systems.</a> In proceedings of the 61st IEEE Conference on Decision and Control, 8&ndash;13.
 * [J] <strong>Liu, S.</strong>, Tanwani, A., and Liberzon, D. (2021). <a href="https://link.springer.com/article/10.1007%2Fs00498-021-00306-x">ISS and Integral-ISS of Switched Systems with Nonlinear Supply Functions.</a> Mathematics of Control, Signals, and Systems, vol. 34, 297&ndash;327.
