@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* On Component-wise Asymptotic Moment Stability of Continuous-time Markov Jump Linear Systems. 63rd IEEE CDC, December 2023, Milan, Italy <a href="https://1drv.ms/b/c/513225b09d6bb538/EQVM2Yp5zD5PtiIjsT_Ya1cBL-jREEypoKIP8vhsXRnmdg?e=uJVfdR">Beamer</a>
 * Do 0-GAS-Guaranteeing Impulse Sequences Ensure ISS or iISS Impulsive Systems? Not Always. 62nd IEEE CDC, December 2023, Singapore <a href="https://1drv.ms/b/s!Aji1a52wJTJRlJEPaEoq4WLwRtp1OA?e=pgTfUe">Beamer</a>
 * Online Data-Driven Adaptive Control for Unknown Linear Time-Varying Systems. 62nd IEEE CDC, December 2023, Singapore <a href="https://1drv.ms/b/s!Aji1a52wJTJRlJEOI6JO48puMTs3fg?e=nDN7om">Beamer</a>
 * Switched Nonlinear Systems: Stability Analysis via Average Dwell-time and Average Activation Time Switching. Invited talk at Qilu University of Technology, November 2023, Jinan, Shandong, China <a href="https://1drv.ms/p/s!Aji1a52wJTJRiY1bL17dKp4Aw92beA?e=TQmvdT">PPT</a>
