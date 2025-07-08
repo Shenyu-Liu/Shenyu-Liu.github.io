@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Towards Practical, Efficient, and Scalable Distributed Least-Squares Algorithms. Invited talk at Southern University of Science and Technology, June 2025, Shenzhen, Guangdong, China. <a href="https://1drv.ms/b/c/513225b09d6bb538/EWcpPBxvlAhKkQB1cGH3oFUBBeRgeUUbG_N2WrKjdIA5DA?e=07PtRS">Beamer</a>
 * Scalable Distributed Algorithms for Finding Least Squares Solutions to Linear Algebraic Equations via Scheduling. <a href="https://1drv.ms/b/c/513225b09d6bb538/ERb4TgvH5DRBkLak2oU6ov8BaSeNIQSWSU8smRjypNMHqw?e=EP1Sfo">Beamer</a>
   * Invited talk at LAAS-CNRS, December 2024, Toulouse, France.
   * Invited talk at ETH, December 2024, Zurich, Switzerland.
