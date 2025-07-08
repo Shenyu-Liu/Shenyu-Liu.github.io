@@ -13,19 +13,23 @@ author_profile: true
 
 On network and distributed algorithms
 ------
+* [J] <strong>Liu, S.</strong> and Si, J. (2025). Efficient Discrete-Time Distributed Least-Squares Algorithms without Step-Size Tuning. Submitted to IEEE Transactions on Control of Network Systems.
+* [J] Azarbahram, A., <strong>Liu, S.</strong> and Incremona, G. P. (2025). Distributed Koopman Operator Learning from Sequential Observations. Submitted to IEEE Control Systems Letters.
 * [J] <strong>Liu, S.</strong> (2024). Scalable Distributed Least Squares Algorithm for Linear Algebraic Equations via Scheduling. Submitted to IEEE Transactions on Automatic Control. 
 * [J] <strong>Liu, S.</strong> and Martinez, S. (2024). <a href ="https://www.sciencedirect.com/science/article/pii/S0167691124002962">Solving Linear Algebraic Equations with Limited Computation Power and Network Bandwidth.</a> Systems and Control Letters, vol. 196, 106008.
 * [J] <strong>Liu, S.</strong>, Cortes, J. and Martinez, S. (2024). <a href ="https://ieeexplore.ieee.org/document/10608395">Data-Driven Distributed Spectrum Estimation for Linear Time-Invariant Systems.</a> IEEE Transactions on Control of Network Systems, vol.12, issue 1, 1125&ndash;1136.
-* [J] <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2023). <a href ="https://ieeexplore.ieee.org/document/10128668">Switched Defense Mechanism Against Attacks on the Parameters of Cyber-Physical Systems.</a> IEEE Transactions on Automatic Control, vol. 68, issue 12, 7326&ndash;7341.
+* [J] <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2023). <a href ="https://ieeexplore.ieee.org/document/10128668">Stabilization of Linear Cyber-Physical Systems Against Attacks via Switching Defense.</a> IEEE Transactions on Automatic Control, vol. 68, issue 12, 7326&ndash;7341.
 * [J] <strong>Liu, S.</strong>, Martinez, S. and Cortes, J. (2022). <a href="https://ieeexplore.ieee.org/document/9750852">Iterative Algorithms for Assessing Network Resilience Against Structured Perturbations.</a> IEEE Transactions on Control of Network Systems, vol. 9, issue 4, 1816&ndash;1827.
 
 On stability of switched systems
 ------
-* [J] Eising, J. <strong>Liu, S.</strong>, Martinez, S., and Cortes, J. (2025). <a href="https://ieeexplore.ieee.org/document/10810729">Data-driven mode detection and stabilization of unknown switched linear systems</a>. IEEE Transactions on Automatic Control, early access.
+* [J] Wen, P. and <strong> Liu, S.</strong>, (2025). Input-to-Moment Stability for Markovian Impulsive Switched Nonlinear Systems with Time-Varying Gain. Submitted to IEEE Transactions on Automatic Control.
+* [J] <strong>Liu, S.</strong>, Wen, P. and Si, J. (2025). Stability and Hybrid L<sub>2</sub>×ℓ<sub>2</sub> Gain Analysis of a Class of Impulsive Switched Systems. Submitted to Nonlinear Analysis: Hybrid Systems.
+* [J] Eising, J. <strong>Liu, S.</strong>, Martinez, S., and Cortes, J. (2025). <a href="https://ieeexplore.ieee.org/document/10810729">Data-driven mode detection and stabilization of unknown switched linear systems</a>. IEEE Transactions on Automatic Control, vol. 70, no. 6, 3830&ndash;3845.
 * [J] <strong>Liu, S.</strong> and Tanwani, A. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S0005109824004229">Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework.</a> Automatica, vol. 171, 111928.
 * [C] Wen, P. and <strong>Liu, S.</strong> (2024). <a href="https://ieeexplore.ieee.org/document/10662301">Redundancy design of networked control systems under denial-of-service attacks</a>. In proceedings of the 43rd Chinese Control Conference, 1515&ndash;1520.
 * [J] Wen, P. and <strong>Liu, S.</strong> (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0167691124002056">Stability Analysis for Impulsive Switched Systems with bounded sojourn time intervals.</a> Systems and Control Letters, vol. 193, 105917.
-* [J] <strong>Liu, S.</strong> and Russo, A. (2024). On Variants of (Integral) Input-to-State Stability for Hybrid Systems and Applications to Uniting Control. Submitted to IEEE Transactions on Automatic Control.
+* [J] <strong>Liu, S.</strong> and Russo, A. (2024). On Variants of (Integral) Input-to-State Stability for Hybrid Systems and Applications to Uniting Control. Submitted to Automatica.
 * [C] <strong> Liu, S.</strong> and Wen, P. (2024). <a href="https://ieeexplore.ieee.org/document/10886023">On Component-wise Asymptotic Moment Stability of Continuous-time Markov Jump Linear Systems.</a> In proceedings of the 63rd IEEE Conference on Decision and Control, 5912&ndash;5917.
 * [J] <strong>Liu, S.</strong>, Russo, A. (2024). <a href="https://www.sciencedirect.com/science/article/pii/S0005109823006532">Further characterizations of integral input-to-state stability for hybrid systems.</a> Automatica, vol. 163, 111484.
 * [J] <strong>Liu, S.</strong> and Wen, P. (2023). <a href="https://doi.org/10.1137/23M1564833">Non-conservative stability criteria for semi-Markovian impulsive switched systems.</a> SIAM Journal on Control and Optimization, vol 62, no. 3, 1783&ndash;1808.
@@ -42,6 +46,7 @@ On stability of switched systems
 
 On stability of nonlinear systems
 ------
+* [C] <strong>Liu, S.</strong> and Russo, A. (2025). On the implication from 0-input global uniform asymptotic stability to integral-input-to-state stability. Submitted to the 64th IEEE Conference on Decision and Control.
 * [J] Haimovich, H., <strong>Liu, S.</strong>, Russo, A., and Mancilla-Aguilar J. L. (2025). Input-Power-to-State Stability of Time-Varying Systems. Submitted to Automatica.
 * [C] <strong>Liu, S.</strong>, Chen, K., and Eising, J. (2023). <a href="https://ieeexplore.ieee.org/abstract/document/10383840">Online Data-Driven Adaptive Control for Unknown Linear Time-Varying Systems.</a> In proceedings of the 62nd IEEE Conference on Decision and Control, 8775&ndash;8780.
 * [J] <strong>Liu, S.</strong> (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0005109822003582">Unified Stability Criteria for Perturbed LTV Systems with Unstable Instantaneous Dynamics.</a> Automatica vol. 144, 110499.
@@ -52,8 +57,8 @@ On stability of nonlinear systems
 
 On motion planning
 ------
-* [C] Chen, J., <strong>Liu, S.</strong> (2025). Continuous-Time Gradient-Proportional-Integral Flow for Provably Convergent Motion Planning with Obstacle Avoidance. Submitted to the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
-* [J] Chen, J., <strong>Liu, S.</strong> (2024). A Two-Stage Motion Planning Algorithm Combining Geometric Heat Flow and Fine-Tuning. Submitted to IEEE Transactions on Robotics.
+* [C] Chen, J., <strong>Liu, S.</strong> (2025). Continuous-Time Gradient-Proportional-Integral Flow for Provably Convergent Motion Planning with Obstacle Avoidance. Accepted by the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
+* [J] Chen, J., <strong>Liu, S.</strong> (2025). A Two-Stage Motion Planning Algorithm Combining Geometric Heat Flow and Fine-Tuning. Submitted to IEEE Transactions on Control Systems Technology.
 * [C] Chen, J., <strong>Liu, S.</strong> (2024). <a href="https://ieeexplore.ieee.org/document/10840103">Motion Planning for Control-Affine Systems by Geometric Heat Flow with Fine-Tuning.</a> In proceedings of the 7th IEEE International Conference on Unmanned Systems (ICUS), 113&ndash;118.
 * [C] Bayram, E., <strong>Liu, S.</strong>, Belabbas, M.A. and Basar, T. (2024). <a href="https://arxiv.org/abs/2404.11013">Control Theoretic Approach to Fine-Tuning and Transfer Learning.</a> In proceedings of the Symposium on Systems Theory in Data and Optimization (SysDO) 2024.
 * [J] Fan, Y.,<strong> Liu, S.</strong> and Belabbas, M.A. (2020). <a href="https://ieeexplore.ieee.org/document/9127539">Geometric Heat Flow Method for Legged Locomotion Planning.</a> IEEE Control Systems Letters, vol. 5, issue 3, 941&ndash;946.
