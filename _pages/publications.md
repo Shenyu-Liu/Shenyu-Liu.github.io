@@ -13,11 +13,12 @@ author_profile: true
 
 On network and distributed algorithms
 ------
+* [J] <strong>Liu, S.</strong> (2026). Step-size-free distributed least-squares algorithm for linear algebraic equations with sum-separable data. Submitted to IEEE Control Systems Letters.
 * [J] Azarbahram, A., <strong>Liu, S.</strong> and Incremona, G. P. (2025). <a href="https://arxiv.org/abs/2511.22368">Distributed Koopman Operator Learning for Perception and Safe Navigation.</a> Submitted to IEEE Transactions on Intelligent Transportation Systems.
 * [C] Du, H., Yu, H., <strong>Liu, S.</strong>, Shi, D. and Gao, B. (2026). Distributed algorithms for coopetition in multi-agent systems. Submitted to IFAC World Congress 2026.
 * [C] Si, J., Yu, H. and <strong>Liu, S.</strong> (2026). DyQuDiLS: Dynamic Quantization for Distributed Least-Squares with Digital Communication. Submitted to IFAC World Congress 2026.
-* [J] <strong>Liu, S.</strong> and Si, J. (2025). Efficient Discrete-Time Distributed Least-Squares Algorithms without Step-Size Tuning. Submitted to IEEE Transactions on Control of Network Systems.
-* [J] Azarbahram, A., <strong>Liu, S.</strong> and Incremona, G. P. (2025). <a href ="https://arxiv.org/abs/2509.20071">Distributed Koopman Operator Learning from Sequential Observations.</a> Submitted to European Journal of Control.
+* [J] <strong>Liu, S.</strong> and Si, J. (2026). <a href ="https://ieeexplore.ieee.org/document/11409456">Efficient Discrete-Time Distributed Least-Squares Algorithms without Step-Size Tuning.</a> IEEE Transactions on Control of Network Systems, early access.
+* [J] Azarbahram, A., <strong>Liu, S.</strong> and Incremona, G. P. (2026). <a href ="https://www.sciencedirect.com/science/article/pii/S0947358026000506">Distributed Koopman Operator Learning from Sequential Observations.</a> European Journal of Control, 101497, early access.
 * [J] <strong>Liu, S.</strong> (2024). 	Scalable Distributed Least Squares Algorithm for Linear Algebraic Equations via Periodic Scheduling. Submitted to IEEE Transactions on Automatic Control. 
 * [J] <strong>Liu, S.</strong> and Martinez, S. (2024). <a href ="https://www.sciencedirect.com/science/article/pii/S0167691124002962">Solving Linear Algebraic Equations with Limited Computation Power and Network Bandwidth.</a> Systems and Control Letters, vol. 196, 106008.
 * [J] <strong>Liu, S.</strong>, Cortes, J. and Martinez, S. (2024). <a href ="https://ieeexplore.ieee.org/document/10608395">Data-Driven Distributed Spectrum Estimation for Linear Time-Invariant Systems.</a> IEEE Transactions on Control of Network Systems, vol.12, issue 1, 1125&ndash;1136.
@@ -26,7 +27,7 @@ On network and distributed algorithms
 
 On stability of switched systems
 ------
-* [C] <strong>Liu, S.</strong>. (2026). Stabilizing switched systems with all unstable subsystems by bounded average activation time switching. Submitted to European Control Conference 2026.
+* [C] <strong>Liu, S.</strong>. (2026). Stabilizing switched systems with all unstable subsystems by bounded average activation time switching. Accepted by European Control Conference 2026.
 * [C] <strong>Liu, S.</strong>, Della Rossa, M. and Tanwani, A. (2026). Converse Lyapunov Theorem for Switched Nonlinear Systems with Constrained Switching Signals. Submitted to IFAC World Congress 2026.
 * [J] Wen, P. and <strong> Liu, S.</strong>, (2025). Input-to-Moment Stability for Markovian Impulsive Switched Nonlinear Systems with Time-Varying Gain. Submitted to IEEE Transactions on Automatic Control.
 * [J] <strong>Liu, S.</strong>, Wen, P. and Si, J. (2026). <a href= "https://www.sciencedirect.com/science/article/pii/S1751570X26000129">Stability and Hybrid L<sub>2</sub>×ℓ<sub>2</sub> Gain Analysis of a Class of Impulsive Switched Systems.</a> Nonlinear Analysis: Hybrid Systems, vol. 60, 101686.
