@@ -13,7 +13,7 @@ author_profile: true
 
 On network and distributed algorithms
 ------
-* [J] <strong>Liu, S.</strong> (2026). <a href="https://ieeexplore.ieee.org/document/11546697">Step-size-free distributed least-squares algorithm for linear algebraic equations with sum-separable data</a>. IEEE Control Systems Letters, early access.
+* [J] <strong>Liu, S.</strong> (2026). <a href="https://ieeexplore.ieee.org/document/11546697">Step-size-free distributed least-squares algorithm for linear algebraic equations with sum-separable data</a>. IEEE Control Systems Letters, vol. 10, 565&ndash;570.
 * [J] Azarbahram, A., <strong>Liu, S.</strong> and Incremona, G. P. (2025). <a href="https://arxiv.org/abs/2511.22368">Distributed Koopman Operator Learning for Perception and Safe Navigation.</a> Submitted to IEEE Transactions on Intelligent Transportation Systems.
 * [C] Du, H., Yu, H., <strong>Liu, S.</strong>, Shi, D. and Gao, B. (2026). Distributed algorithms for coopetition in multi-agent systems. Accepted by IFAC World Congress 2026.
 * [C] Si, J., Yu, H. and <strong>Liu, S.</strong> (2026). DyQuDiLS: Dynamic Quantization for Distributed Least-Squares with Digital Communication. Accepted by IFAC World Congress 2026.
