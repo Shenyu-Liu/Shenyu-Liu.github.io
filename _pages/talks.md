@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+* Stabilizing switched systems with both unstable subsystems by bounded average activation time switching. At the European Control Conference 2026, July 2026, Reykjavík, Iceland. <a href="https://1drv.ms/b/c/513225b09d6bb538/IQAzJjRwik1DT4epA2hShhDaAa3WePjZymWt1XTJjCN4tg8?e=pBceMI">Beamer</a>
 * Continuous-Time Gradient-Proportional-Integral-Flow for Provably Convergent Motion Planning with Obstacle Avoidance. At IEEE/RSJ International Conference on Intelligent Robots and Systems, October 2025, Hangzhou, Zhejiang, China. <a href="https://1drv.ms/b/c/513225b09d6bb538/IQAlRqPzanXkSpx97tu8GwUlAa8Y3OWM9g6wtvpRnQ1fx5s?e=OryLeQ">Beamer</a>
 * Uniform stability of time-dependent switched systems. Invited talk at the Zhejiang University of Technology, October 2025, Hangzhou, Zhejiang, China. <a href="https://1drv.ms/p/c/513225b09d6bb538/IQDmosbibe2ZRYG8DaMUHC8nAaiXEkRabKnLZZvXiNtqZCU?e=YsHKNv">PPT</a>
 * Towards Practical, Efficient, and Scalable Distributed Least-Squares Algorithms. Invited talk at the Southern University of Science and Technology, June 2025, Shenzhen, Guangdong, China. <a href="https://1drv.ms/b/c/513225b09d6bb538/EWcpPBxvlAhKkQB1cGH3oFUBBeRgeUUbG_N2WrKjdIA5DA?e=07PtRS">Beamer</a>
