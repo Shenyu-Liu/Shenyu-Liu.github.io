@@ -29,7 +29,7 @@ On stability of switched systems
 ------
 * [C] <strong>Liu, S.</strong>. (2026). Stabilizing switched systems with all unstable subsystems by bounded average activation time switching. Accepted by European Control Conference 2026.
 * [C] <strong>Liu, S.</strong>, Della Rossa, M. and Tanwani, A. (2026). Converse Lyapunov Theorem for Switched Nonlinear Systems with Constrained Switching Signals. Accepted by IFAC World Congress 2026.
-* [J] Wen, P. and <strong> Liu, S.</strong>, (2025). Input-to-Moment Stability for Markovian Impulsive Switched Nonlinear Systems with Time-Varying Gain. Submitted to IEEE Transactions on Automatic Control.
+<!--* [J] Wen, P. and <strong> Liu, S.</strong>, (2025). Input-to-Moment Stability for Markovian Impulsive Switched Nonlinear Systems with Time-Varying Gain. Submitted to IEEE Transactions on Automatic Control.-->
 * [J] <strong>Liu, S.</strong>, Wen, P. and Si, J. (2026). <a href= "https://www.sciencedirect.com/science/article/pii/S1751570X26000129">Stability and Hybrid L<sub>2</sub>×ℓ<sub>2</sub> Gain Analysis of a Class of Impulsive Switched Systems.</a> Nonlinear Analysis: Hybrid Systems, vol. 60, 101686.
 * [J] Eising, J. <strong>Liu, S.</strong>, Martinez, S., and Cortes, J. (2025). <a href="https://ieeexplore.ieee.org/document/10810729">Data-driven mode detection and stabilization of unknown switched linear systems</a>. IEEE Transactions on Automatic Control, vol. 70, no. 6, 3830&ndash;3845.
 * [J] <strong>Liu, S.</strong> and Tanwani, A. (2025). <a href="https://www.sciencedirect.com/science/article/pii/S0005109824004229">Impulsive switching signals with functional inequalities: Stability analysis using hybrid systems framework.</a> Automatica, vol. 171, 111928.
